@@ -1,0 +1,5215 @@
+{
+    "CSE204": {
+    "-OBy5WaM83FKotz_seEN": {
+      "BatteryLifeAfter": 80,
+      "BatteryLifeBefore": 80,
+      "DateTime": "18/11/2024: 13:08:40",
+      "DeviceModel": "SM-M325F",
+      "ScanList": [
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -58
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "56:24:f1:d4:40:ff",
+            "SSID": "Redmi Note 10",
+            "Strength": -71
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -68
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "70:4c:a5:95:a4:21",
+            "SSID": "eduroam",
+            "Strength": -91
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -52
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "a6:59:c9:64:d6:36",
+            "SSID": "Pixel_5325",
+            "Strength": -61
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -84
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -52
+          }
+        ]
+      ],
+      "StudentID": "1607110"
+    },
+    "-OBy68-y-ubsGPs_vpnA": {
+      "BatteryLifeAfter": 80,
+      "BatteryLifeBefore": 80,
+      "DateTime": "18/11/2024: 13:11:20",
+      "DeviceModel": "SM-M325F",
+      "ScanList": [
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -75
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -58
+          },
+          {
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -82
+          }
+        ]
+      ],
+      "StudentID": "1607110"
+    },
+    "-OBy6MXz3OjygRiF086z": {
+      "BatteryLifeAfter": 80,
+      "BatteryLifeBefore": 80,
+      "DateTime": "18/11/2024: 13:12:19",
+      "DeviceModel": "SM-M325F",
+      "ScanList": [
+        [
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -91
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:8b:8f",
+            "SSID": "",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -71
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:8b:8f",
+            "SSID": "CSE OFFICE",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -83
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -70
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -82
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -58
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -58
+          }
+        ],
+        [
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -91
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:8b:8f",
+            "SSID": "",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -71
+          }
+        ]
+      ],
+      "StudentID": "160711023\n\n1607110"
+    },
+    "-OBy6XLRqU9KjBBqDDs-": {
+      "BatteryLifeAfter": 80,
+      "BatteryLifeBefore": 80,
+      "DateTime": "18/11/2024: 13:13:03",
+      "DeviceModel": "SM-M325F",
+      "ScanList": [
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -57
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "46:b7:e8:94:1b:31",
+            "SSID": "Galaxy A54 5G DACD",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -70
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -77
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -73
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -70
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -56
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -77
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -68
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -77
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -71
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "bc:22:28:21:55:6e",
+            "SSID": "CSE-104",
+            "Strength": -73
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -59
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:18",
+            "SSID": "BUET-Free-WiFi",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -89
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -60
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -69
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "bc:22:28:21:09:24",
+            "SSID": "CSE-205",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -61
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -55
+          }
+        ],
+        [
+          {
+            "Frequency": 5745,
+            "MacAddress": "1e:61:b4:ac:79:f3",
+            "SSID": "CSE-306BL",
+            "Strength": -94
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "56:24:f1:d4:40:ff",
+            "SSID": "Redmi Note 10",
+            "Strength": -72
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -66
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:51",
+            "SSID": "CSE-108",
+            "Strength": -77
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -94
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "76:b5:7d:a1:24:cb",
+            "SSID": "Rishuk",
+            "Strength": -82
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -69
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "80:af:ca:11:95:ea",
+            "SSID": "Graduate Lobby",
+            "Strength": -87
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -69
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -65
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "60:63:4c:31:37:60",
+            "SSID": "CSE-306",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -90
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "82:af:ca:21:95:ea",
+            "SSID": "",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -63
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -62
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "bc:22:28:21:55:6e",
+            "SSID": "CSE-104",
+            "Strength": -76
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -59
+          }
+        ]
+      ],
+      "StudentID": "1607110"
+    }
+  },
+    "CSE203":{
+        "-OBy5jB7kuL4G0539FXF": {
+          "BatteryLifeAfter": 48,
+          "BatteryLifeBefore": 49,
+          "DateTime": "18/11/2024: 13:09:33",
+          "DeviceModel": "SM-S918B",
+          "ScanList": [
+            
+            [
+              
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -65
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -70
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -55
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -78
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -49
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -79
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -88
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -70
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -63
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:57",
+                "SSID": "",
+                "Strength": -77
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -73
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -68
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -88
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "60:63:4c:31:37:60",
+                "SSID": "CSE-306",
+                "Strength": -85
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -77
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -53
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -77
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -66
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -70
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:63",
+                "SSID": "",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "5c:e9:31:22:be:d6",
+                "SSID": "",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -77
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "36:56:20:d4:75:60",
+                "SSID": "Rayyan's Galaxy A24",
+                "Strength": -80
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -83
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -68
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -72
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -89
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -88
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "5e:a9:31:22:be:d6",
+                "SSID": "CSE-LAB",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "34:e8:94:10:7d:fa",
+                "SSID": "Hall of Fame",
+                "Strength": -84
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:63",
+                "SSID": "",
+                "Strength": -86
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -77
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -76
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "70:4c:a5:95:b6:00",
+                "SSID": "BUET-Free-WiFi",
+                "Strength": -85
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -65
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -86
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -86
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b7",
+                "SSID": "",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -70
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "60:63:4c:31:37:60",
+                "SSID": "CSE-306",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -59
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "80:af:ca:11:95:ea",
+                "SSID": "Graduate Lobby",
+                "Strength": -86
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -51
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -65
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -84
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b7",
+                "SSID": "",
+                "Strength": -83
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:63",
+                "SSID": "",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -54
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "5c:e9:31:22:be:d6",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -45
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -62
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "30:b5:c2:ea:5b:44",
+                "SSID": "DataLab@BUET",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -72
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -75
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -76
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "30:b5:c2:ea:5b:44",
+                "SSID": "DataLab@BUET",
+                "Strength": -70
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "70:4c:a5:95:b6:01",
+                "SSID": "eduroam",
+                "Strength": -80
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -83
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -84
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -59
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -53
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -48
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -61
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -75
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -76
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "30:b5:c2:ea:5b:44",
+                "SSID": "DataLab@BUET",
+                "Strength": -70
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "70:4c:a5:95:b6:01",
+                "SSID": "eduroam",
+                "Strength": -80
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -83
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -84
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -59
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -53
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -48
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -61
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -75
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -76
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "30:b5:c2:ea:5b:44",
+                "SSID": "DataLab@BUET",
+                "Strength": -70
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "70:4c:a5:95:b6:01",
+                "SSID": "eduroam",
+                "Strength": -80
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -83
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -84
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -59
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -68
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -53
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -48
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -61
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -84
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -80
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -65
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -55
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -73
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -84
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -65
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -79
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -84
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -80
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -65
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -55
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -73
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -84
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -65
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -79
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -85
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -71
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -67
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -77
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -85
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -71
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -67
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -77
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -85
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -71
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -67
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -77
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2422,
+                "MacAddress": "26:2f:d0:88:39:a2",
+                "SSID": "IAC",
+                "Strength": -62
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -82
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -72
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5c:e9:31:22:bb:0b",
+                "SSID": "",
+                "Strength": -90
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -57
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -65
+              },
+              {
+                "Frequency": 2422,
+                "MacAddress": "24:2f:d0:88:39:a2",
+                "SSID": "",
+                "Strength": -55
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -75
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -75
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "a6:59:c9:64:d6:36",
+                "SSID": "Pixel_5325",
+                "Strength": -65
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -79
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -65
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -47
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -49
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:57",
+                "SSID": "",
+                "Strength": -81
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "34:60:f9:a1:88:56",
+                "SSID": "",
+                "Strength": -56
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -59
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -52
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -80
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -52
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -71
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -56
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -88
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -66
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "34:60:f9:a1:88:56",
+                "SSID": "",
+                "Strength": -66
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2432,
+                "MacAddress": "5c:e9:31:22:bb:0a",
+                "SSID": "",
+                "Strength": -66
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:63",
+                "SSID": "",
+                "Strength": -84
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -78
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "bc:22:28:21:09:ba",
+                "SSID": "CSE-206",
+                "Strength": -70
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -71
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -57
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b8",
+                "SSID": "",
+                "Strength": -82
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -66
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:b7",
+                "SSID": "",
+                "Strength": -83
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -50
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -46
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -84
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -61
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "34:60:f9:a1:88:56",
+                "SSID": "",
+                "Strength": -58
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 2432,
+                "MacAddress": "5c:e9:31:22:be:d6",
+                "SSID": "",
+                "Strength": -72
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -80
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:22",
+                "SSID": "",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -69
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -69
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "56:24:f1:d4:40:ff",
+                "SSID": "Redmi Note 10",
+                "Strength": -67
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -79
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -62
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "bc:22:28:21:55:6e",
+                "SSID": "CSE-104",
+                "Strength": -69
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -49
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -44
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -86
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -71
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:57",
+                "SSID": "",
+                "Strength": -79
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "34:60:f9:a1:88:56",
+                "SSID": "",
+                "Strength": -61
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -81
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5c:e9:31:22:bb:0b",
+                "SSID": "",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -61
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5e:ea:31:22:bb:0b",
+                "SSID": "CSE-LAB",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -57
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -80
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -60
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -50
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -45
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -66
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:57",
+                "SSID": "",
+                "Strength": -82
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -81
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5c:e9:31:22:bb:0b",
+                "SSID": "",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -61
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5e:ea:31:22:bb:0b",
+                "SSID": "CSE-LAB",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -57
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -80
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -60
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -50
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -45
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -66
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:57",
+                "SSID": "",
+                "Strength": -82
+              }
+            ],
+            [
+              
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:57",
+                "SSID": "CSE OFFICE",
+                "Strength": -81
+              },
+              {
+                "Frequency": 5785,
+                "MacAddress": "bc:22:28:21:09:21",
+                "SSID": "CSE-205",
+                "Strength": -69
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5c:e9:31:22:bb:0b",
+                "SSID": "",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2457,
+                "MacAddress": "36:20:f9:a1:88:56",
+                "SSID": "CSE OFFICE",
+                "Strength": -61
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "5e:ea:31:22:bb:0b",
+                "SSID": "CSE-LAB",
+                "Strength": -89
+              },
+              {
+                "Frequency": 2462,
+                "MacAddress": "26:94:5a:1b:90:4d",
+                "SSID": "Tatakae🥷",
+                "Strength": -57
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6c",
+                "SSID": "",
+                "Strength": -73
+              },
+              {
+                "Frequency": 5765,
+                "MacAddress": "bc:22:28:21:55:6b",
+                "SSID": "CSE-104",
+                "Strength": -74
+              },
+              {
+                "Frequency": 5745,
+                "MacAddress": "52:29:6f:70:e8:02",
+                "SSID": "Shakshor",
+                "Strength": -80
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "00:22:b0:05:f3:bc",
+                "SSID": "CSE-204",
+                "Strength": -60
+              },
+              {
+                "Frequency": 2432,
+                "MacAddress": "60:63:4c:31:37:40",
+                "SSID": "CSE-303",
+                "Strength": -50
+              },
+              {
+                "Frequency": 2412,
+                "MacAddress": "18:0f:76:c3:06:8d",
+                "SSID": "CSE-304",
+                "Strength": -45
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "36:62:f9:a1:88:63",
+                "SSID": "CSE OFFICE",
+                "Strength": -87
+              },
+              {
+                "Frequency": 2437,
+                "MacAddress": "d2:21:d7:af:f0:ae",
+                "SSID": "Fihad's Galaxy",
+                "Strength": -66
+              },
+              {
+                "Frequency": 5805,
+                "MacAddress": "34:60:f9:a1:88:57",
+                "SSID": "",
+                "Strength": -82
+              }
+            ]
+          ],
+          "StudentID": "2005075"
+        }
+  },
+    "CSE 205": {
+    "-OBy8Ymrz_FMPBCxcOzx": {
+      "BatteryLifeAfter": 34,
+      "BatteryLifeBefore": 36,
+      "DateTime": "18/11/2024: 13:21:53",
+      "DeviceModel": "RMX3461",
+      "ScanList": [
+        [
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -52
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:62",
+            "SSID": "",
+            "Strength": -60
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -87
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -65
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "a6:59:c9:64:d6:36",
+            "SSID": "Pixel_5325",
+            "Strength": -61
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6c",
+            "SSID": "",
+            "Strength": -80
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -78
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -83
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -77
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -66
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "bc:22:28:21:09:ba",
+            "SSID": "CSE-206",
+            "Strength": -74
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -53
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -53
+          }
+        ],
+        [
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -52
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:62",
+            "SSID": "",
+            "Strength": -60
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:63",
+            "SSID": "",
+            "Strength": -87
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -65
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "a6:59:c9:64:d6:36",
+            "SSID": "Pixel_5325",
+            "Strength": -61
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6c",
+            "SSID": "",
+            "Strength": -80
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -78
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -83
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -87
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -77
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -66
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -66
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "bc:22:28:21:09:ba",
+            "SSID": "CSE-206",
+            "Strength": -74
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -53
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -53
+          }
+        ],
+        [
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -58
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -88
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6c",
+            "SSID": "",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -79
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -67
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -75
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -58
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5e:a9:31:22:bb:0a",
+            "SSID": "CSE-LAB",
+            "Strength": -75
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -50
+          }
+        ],
+        [
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -58
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b7",
+            "SSID": "",
+            "Strength": -88
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6c",
+            "SSID": "",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -79
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -67
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -86
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:22",
+            "SSID": "",
+            "Strength": -74
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -75
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -58
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5e:a9:31:22:bb:0a",
+            "SSID": "CSE-LAB",
+            "Strength": -75
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -50
+          }
+        ],
+
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -59
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -68
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -80
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -84
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -51
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -71
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -85
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "36:56:20:d4:75:60",
+            "SSID": "Rayyan's Galaxy A24",
+            "Strength": -79
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -80
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -74
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -52
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5e:a9:31:22:bb:0a",
+            "SSID": "CSE-LAB",
+            "Strength": -63
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -59
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -68
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -80
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -84
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -51
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -71
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -85
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "36:56:20:d4:75:60",
+            "SSID": "Rayyan's Galaxy A24",
+            "Strength": -79
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -80
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -74
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -52
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5e:a9:31:22:bb:0a",
+            "SSID": "CSE-LAB",
+            "Strength": -63
+          }
+        ],
+        [
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -60
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -78
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -65
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "26:2f:d0:88:39:a2",
+            "SSID": "IAC",
+            "Strength": -56
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -82
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -80
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5e:a9:31:22:bb:0a",
+            "SSID": "CSE-LAB",
+            "Strength": -65
+          }
+        ],
+        [
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -60
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -67
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "24:2f:d0:88:39:a2",
+            "SSID": "",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -78
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -86
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -65
+          },
+          {
+            "Frequency": 2422,
+            "MacAddress": "26:2f:d0:88:39:a2",
+            "SSID": "IAC",
+            "Strength": -56
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -82
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -80
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5e:a9:31:22:bb:0a",
+            "SSID": "CSE-LAB",
+            "Strength": -65
+          }
+        ],
+
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "26:2a:d0:88:39:a3",
+            "SSID": "IAC",
+            "Strength": -88
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -56
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:62",
+            "SSID": "",
+            "Strength": -56
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -72
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:01",
+            "SSID": "eduroam",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "34:e8:94:10:7d:fa",
+            "SSID": "Hall of Fame",
+            "Strength": -65
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -63
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -68
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -46
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "26:2a:d0:88:39:a3",
+            "SSID": "IAC",
+            "Strength": -88
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -56
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:62",
+            "SSID": "",
+            "Strength": -56
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -72
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:01",
+            "SSID": "eduroam",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "34:e8:94:10:7d:fa",
+            "SSID": "Hall of Fame",
+            "Strength": -65
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -63
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -68
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -46
+          }
+        ],
+        [
+          {
+            "Frequency": 2462,
+            "MacAddress": "26:94:5a:1b:90:4d",
+            "SSID": "Tatakae🥷",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "60:63:4c:31:37:40",
+            "SSID": "CSE-303",
+            "Strength": -55
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "26:2a:d0:88:39:a3",
+            "SSID": "IAC",
+            "Strength": -88
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "34:60:f9:a1:88:57",
+            "SSID": "",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5180,
+            "MacAddress": "60:63:4c:31:37:48",
+            "SSID": "dlink",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:56",
+            "SSID": "",
+            "Strength": -56
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "34:60:f9:a1:88:62",
+            "SSID": "",
+            "Strength": -56
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "30:b5:c2:ea:5b:44",
+            "SSID": "DataLab@BUET",
+            "Strength": -72
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "70:4c:a5:95:b6:01",
+            "SSID": "eduroam",
+            "Strength": -81
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:b8",
+            "SSID": "",
+            "Strength": -82
+          },
+          {
+            "Frequency": 2437,
+            "MacAddress": "d2:21:d7:af:f0:ae",
+            "SSID": "Fihad's Galaxy",
+            "Strength": -57
+          },
+          {
+            "Frequency": 2462,
+            "MacAddress": "34:e8:94:10:7d:fa",
+            "SSID": "Hall of Fame",
+            "Strength": -65
+          },
+          {
+            "Frequency": 5765,
+            "MacAddress": "bc:22:28:21:55:6b",
+            "SSID": "CSE-104",
+            "Strength": -75
+          },
+          {
+            "Frequency": 5745,
+            "MacAddress": "52:29:6f:70:e8:02",
+            "SSID": "Shakshor",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:62",
+            "SSID": "CSE OFFICE",
+            "Strength": -59
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:63",
+            "SSID": "CSE OFFICE",
+            "Strength": -81
+          },
+          {
+            "Frequency": 2432,
+            "MacAddress": "5c:e9:31:22:bb:0a",
+            "SSID": "",
+            "Strength": -63
+          },
+          {
+            "Frequency": 5805,
+            "MacAddress": "36:62:f9:a1:88:57",
+            "SSID": "CSE OFFICE",
+            "Strength": -76
+          },
+          {
+            "Frequency": 5785,
+            "MacAddress": "bc:22:28:21:09:21",
+            "SSID": "CSE-205",
+            "Strength": -68
+          },
+          {
+            "Frequency": 2457,
+            "MacAddress": "36:20:f9:a1:88:56",
+            "SSID": "CSE OFFICE",
+            "Strength": -55
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "00:22:b0:05:f3:bc",
+            "SSID": "CSE-204",
+            "Strength": -54
+          },
+          {
+            "Frequency": 2412,
+            "MacAddress": "18:0f:76:c3:06:8d",
+            "SSID": "CSE-304",
+            "Strength": -46
+          }
+        ]
+      ],
+      "StudentID": "2005118"
+    }
+  }
+}

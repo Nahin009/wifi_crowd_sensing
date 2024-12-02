@@ -1,5 +1,5 @@
 {
-    "CSE204": {
+    "CSE204unknown": {
     "-OBy5WaM83FKotz_seEN": {
       "BatteryLifeAfter": 80,
       "BatteryLifeBefore": 80,
@@ -2405,7 +2405,7 @@
       "StudentID": "1607110"
     }
   },
-    "CSE203":{
+    "CSE203unknown":{
         "-OBy5jB7kuL4G0539FXF": {
           "BatteryLifeAfter": 48,
           "BatteryLifeBefore": 49,
@@ -4037,7 +4037,7 @@
           "StudentID": "2005075"
         }
   },
-    "CSE 205": {
+    "CSE205unknown": {
     "-OBy8Ymrz_FMPBCxcOzx": {
       "BatteryLifeAfter": 34,
       "BatteryLifeBefore": 36,

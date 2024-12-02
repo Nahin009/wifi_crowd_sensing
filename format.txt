@@ -1,0 +1,34 @@
+I have a json file, where the data is like this:
+{	// list of roomNo
+	"roomNo": {// list of data
+			"randomId(like -OBy1sje9G2wiKPK3Rab)":{
+				  "BatteryLifeAfter": 73,
+				  "BatteryLifeBefore": 74,
+				  "DateTime": "18/11/2024: 12:52:44",
+				  "DeviceModel": "SM-S908E",
+				  "StudentID": "2005045",
+				  // array of arrays
+				  "ScanList":[
+					  	[
+					  		{
+					  			"Frequency": 2437,
+								"MacAddress": "96:33:56:57:7a:84",
+								"SSID": "iPhone (3)",
+								"Strength": -69
+							},
+							{
+					  			"Frequency": 2437,
+								"MacAddress": "96:33:56:57:7a:84",
+								"SSID": "iPhone (3)",
+								"Strength": -69
+							},
+							More...
+					  	],
+					  	[...],
+					  	More...
+				  	     ]
+			},
+			More randomId...
+	},
+	More RooNo...
+}

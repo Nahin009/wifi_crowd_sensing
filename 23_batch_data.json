@@ -143137,7 +143137,7 @@
       "StudentID": "2105007"
     }
   },
-  "Outside": {
+  "Outside_203": {
     "-OPJbcM1M_DLpdi-jSam": {
       "BatteryLifeAfter": 92,
       "BatteryLifeBefore": 92,
@@ -144972,7 +144972,9 @@
         ]
       ],
       "StudentID": "16839402"
-    },
+    }
+  },
+  "Outside_204": {
     "-OPJaghKCHNg5eAGqk4w": {
       "BatteryLifeAfter": 92,
       "BatteryLifeBefore": 93,
@@ -145782,7 +145784,9 @@
         ]
       ],
       "StudentID": "16072103"
-    },
+    }
+  },
+  "Outside_Both": {
     "-OPJZ8VdeD7KAf_10JtR": {
       "BatteryLifeAfter": 93,
       "BatteryLifeBefore": 93,

@@ -1,0 +1,1561 @@
+{
+  "-O7Xw8ZSKwFTvaYqcQ4P": {
+    "DateTime": "24/09/2024: 13:30:45",
+    "DeviceModel": "RMX3363",
+    "ScanList": [
+      null,
+      [
+        null,
+        {
+          "SSID": "Baramkhana",
+          "Strength": -85
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -73
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "POCO M2",
+          "Strength": -84
+        },
+        {
+          "SSID": "Asma Sultana",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -63
+        },
+        {
+          "SSID": "",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-405",
+          "Strength": -88
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -64
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -88
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -80
+        },
+        {
+          "SSID": "",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -88
+        },
+        {
+          "SSID": "",
+          "Strength": -82
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -88
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -66
+        },
+        {
+          "SSID": "",
+          "Strength": -80
+        },
+        {
+          "SSID": "",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -69
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -88
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -87
+        },
+        {
+          "SSID": "",
+          "Strength": -82
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -79
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -78
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -67
+        },
+        {
+          "SSID": "Jannat 409",
+          "Strength": -88
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE-314",
+          "Strength": -84
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "00002DhkSknAp1",
+          "Strength": -86
+        },
+        {
+          "SSID": "",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -61
+        },
+        {
+          "SSID": "",
+          "Strength": -80
+        },
+        {
+          "SSID": "",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -76
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -61
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -87
+        },
+        {
+          "SSID": "ORBIT Y21",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -74
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -75
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -63
+        },
+        {
+          "SSID": "",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -76
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -56
+        },
+        {
+          "SSID": "",
+          "Strength": -81
+        },
+        {
+          "SSID": "",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -77
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -81
+        },
+        {
+          "SSID": "Room 813",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -81
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -88
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -63
+        },
+        {
+          "SSID": "Room 709",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -82
+        },
+        {
+          "SSID": "",
+          "Strength": -67
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -67
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -78
+        },
+        {
+          "SSID": "",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -76
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -93
+        },
+        {
+          "SSID": "",
+          "Strength": -87
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -81
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -67
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -68
+        },
+        {
+          "SSID": "",
+          "Strength": -80
+        },
+        {
+          "SSID": "",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -65
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -64
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -76
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -74
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -89
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -64
+        },
+        {
+          "SSID": "Room 709",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-405",
+          "Strength": -89
+        },
+        {
+          "SSID": "",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "",
+          "Strength": -88
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -62
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -77
+        },
+        {
+          "SSID": "",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -90
+        },
+        {
+          "SSID": "",
+          "Strength": -85
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -81
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -85
+        },
+        {
+          "SSID": "",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-405",
+          "Strength": -89
+        },
+        {
+          "SSID": "",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -63
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -63
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -90
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -83
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -70
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "",
+          "Strength": -81
+        },
+        {
+          "SSID": "",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -89
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -79
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -89
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -76
+        },
+        {
+          "SSID": "",
+          "Strength": -87
+        },
+        {
+          "SSID": "TECNO SPARK Go 1",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -76
+        },
+        {
+          "SSID": "Syed07",
+          "Strength": -87
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -80
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -62
+        },
+        {
+          "SSID": "",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -77
+        },
+        {
+          "SSID": "",
+          "Strength": -74
+        },
+        {
+          "SSID": "POCO M2",
+          "Strength": -86
+        },
+        {
+          "SSID": "",
+          "Strength": -76
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -67
+        },
+        {
+          "SSID": "CSE-401",
+          "Strength": -84
+        },
+        {
+          "SSID": "",
+          "Strength": -82
+        },
+        {
+          "SSID": "",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -77
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -70
+        },
+        {
+          "SSID": "Room 709",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -70
+        },
+        {
+          "SSID": "Asma Sultana",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -74
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -70
+        },
+        {
+          "SSID": "Jannat 409",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -70
+        },
+        {
+          "SSID": "Redmi 9",
+          "Strength": -89
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -66
+        },
+        {
+          "SSID": "",
+          "Strength": -80
+        },
+        {
+          "SSID": "",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -68
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -67
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -84
+        },
+        {
+          "SSID": "BUET-Free-WiFi",
+          "Strength": -88
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -88
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -84
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -87
+        },
+        {
+          "SSID": "Jannat 409",
+          "Strength": -88
+        },
+        {
+          "SSID": "Team 611 💞",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-306",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -68
+        },
+        {
+          "SSID": "Redmi 13C",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -55
+        },
+        {
+          "SSID": "CSE-401",
+          "Strength": -80
+        },
+        {
+          "SSID": "",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -77
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -88
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -67
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -69
+        },
+        {
+          "SSID": "",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -76
+        },
+        {
+          "SSID": "BUET-Free-WiFi",
+          "Strength": -90
+        },
+        {
+          "SSID": "eduroam",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -87
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -76
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -81
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -67
+        },
+        {
+          "SSID": "Team 611 💞",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -70
+        },
+        {
+          "SSID": "Dr. Mohidus Samad's S24 Ultra",
+          "Strength": -82
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -58
+        },
+        {
+          "SSID": "",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -63
+        },
+        {
+          "SSID": "Creativity",
+          "Strength": -82
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -66
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -88
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -82
+        },
+        {
+          "SSID": "",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -88
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -63
+        },
+        {
+          "SSID": "Room 709",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "",
+          "Strength": -75
+        },
+        {
+          "SSID": "",
+          "Strength": -76
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -63
+        },
+        {
+          "SSID": "",
+          "Strength": -81
+        },
+        {
+          "SSID": "",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -76
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -89
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -65
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -73
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -59
+        },
+        {
+          "SSID": "Room 709",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -70
+        },
+        {
+          "SSID": "",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -89
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -90
+        },
+        {
+          "SSID": "",
+          "Strength": -84
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -61
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -75
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-405",
+          "Strength": -90
+        },
+        {
+          "SSID": "",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -63
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -62
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -91
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -72
+        },
+        {
+          "SSID": "",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -76
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -90
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Room no. 1108",
+          "Strength": -88
+        },
+        {
+          "SSID": "Mehu",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -72
+        },
+        {
+          "SSID": "",
+          "Strength": -72
+        },
+        {
+          "SSID": "POCO M2",
+          "Strength": -86
+        },
+        {
+          "SSID": "",
+          "Strength": -67
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -67
+        },
+        {
+          "SSID": "🤍🍁713🍁🤍",
+          "Strength": -90
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -58
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -91
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -68
+        },
+        {
+          "SSID": "",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -74
+        },
+        {
+          "SSID": "305",
+          "Strength": -91
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -90
+        },
+        {
+          "SSID": "",
+          "Strength": -86
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -65
+        }
+      ],
+      [
+        null,
+        {
+          "SSID": "Mehu",
+          "Strength": -63
+        },
+        {
+          "SSID": "",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-306BL",
+          "Strength": -87
+        },
+        {
+          "SSID": "Asma Sultana",
+          "Strength": -92
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -65
+        },
+        {
+          "SSID": "",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -66
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -62
+        },
+        {
+          "SSID": "Super girls",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-LAB",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE-503",
+          "Strength": -90
+        }
+      ]
+    ]
+  }
+}

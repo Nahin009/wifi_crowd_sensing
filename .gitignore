@@ -1,0 +1,82 @@
+# .gitignore for wifi_crowd_sensing project
+
+# Maven build output
+/target/
+
+# Compiled class files
+*.class
+/target/classes/
+
+# IDE/editor
+/.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+logs/
+*.tmp
+*.swp
+*~
+
+# Maven wrapper and local Maven repo
+.mvn/
+.m2/
+
+# Build outputs / artifacts
+/build/
+/out/
+/bin/
+*.jar
+*.war
+*.ear
+
+# Keystore / credentials
+*.jks
+*.keystore
+*.pem
+*.p12
+credentials.properties
+keys.properties
+
+# Android artifacts (if any)
+*.apk
+*.ap_
+*.aab
+
+# Node / front-end
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Gradle
+.gradle/
+
+# Coverage
+coverage/
+*.cov
+
+# Backup folders
+backup/
+
+## Project-specific large/generated data to ignore
+## Keep source code under src/main/java and other needed sources tracked.
+#/src/main/All/
+#/src/main/new\ data/
+#/src/main/device_compare/
+#
+## Common data export patterns in src/main (CSV/JSON data files generated during processing)
+#/src/main/*_all_*.csv
+#/src/main/*_test_*.csv
+#/src/main/*_ref_*.csv
+#/src/main/*_all_*.json
+#/src/main/*_2ndDay.json
+#/src/main/ALL_DATA.json
+#/src/main/All_with_demo.json
+
+# Ensure .gitignore itself is tracked
+!/.gitignore

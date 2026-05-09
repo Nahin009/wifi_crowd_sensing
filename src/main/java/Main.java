@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        String JsonFilePath = "src/main/203_ALL.json";
+        String JsonFilePath = "src/main/204_ALL.json";
 
         // Read JSON file and convert to Java object
         ObjectMapper mapper = new ObjectMapper();
@@ -33,14 +33,14 @@ public class Main {
         selectedSSID.add("Hall of Fame"); //204 203
         selectedSSID.add("DataLab@BUET"); //204 203
         selectedSSID.add("CSE-206"); //204 203
-//        selectedSSID.add("CSE-108"); //204
-//        selectedSSID.add("CSE-404"); //204
+        selectedSSID.add("CSE-108"); //204
+        selectedSSID.add("CSE-404"); //204
         selectedSSID.add("CSE-G04"); //204 203
         selectedSSID.add("CSE-G07"); //204 203
         selectedSSID.add("CSE-306"); //204 203
-//        selectedSSID.add("CSE-G09"); //204
+        selectedSSID.add("CSE-G09"); //204
         selectedSSID.add("dlink"); //204 203
-        selectedSSID.add("CSE-401"); //203
+//        selectedSSID.add("CSE-401"); //203
 
 
         try {
@@ -82,13 +82,13 @@ public class Main {
 
             Map<String, AvgStrengthMap> AllPosAvgStrengthMapOfSelectedSSIDs = makeRefSSIDs.getRefVectors(selectedSSID);
             //print out the ref points and their avg strength of selected SSIDs
-//            for (Map.Entry<String, AvgStrengthMap> entry : AllPosAvgStrengthMapOfSelectedSSIDs.entrySet()) {
-//                System.out.println(entry.getKey() + " : " + entry.getValue().map);
-//            }
+            for (Map.Entry<String, AvgStrengthMap> entry : AllPosAvgStrengthMapOfSelectedSSIDs.entrySet()) {
+                System.out.println(entry.getKey() + " : " + entry.getValue().map);
+            }
 
-
-            testingData = new TestingData(refPointsInside, refPointsOutside, testPointsInside, testPointsOutside, AllPosAvgStrengthMapOfSelectedSSIDs);
-            testingData.KNN_With_MajorityVoting();
+//
+//            testingData = new TestingData(refPointsInside, refPointsOutside, testPointsInside, testPointsOutside, AllPosAvgStrengthMapOfSelectedSSIDs);
+//            testingData.KNN_With_MajorityVoting();
 //            testingData.KNN_With_CoOrdinate_Checking();
 
 

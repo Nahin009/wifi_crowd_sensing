@@ -1,8 +1,7 @@
 import java.util.*;
 
 public class TestingData {
-    private static final int K = 11;
-
+    private static final int K = 5;
 
     List<String> refPointsInside, refPointsOutside, testPointsInside, testPointsOutside;
     List<String> AllRefPoints, AllTestPoints;
@@ -95,7 +94,7 @@ public class TestingData {
         refPointMagnitude = Math.sqrt(refPointMagnitude);
         double testPointMagnitude = DotProduct(testPoint, testPoint);
         testPointMagnitude = Math.sqrt(testPointMagnitude);
-        return dotProduct / (refPointMagnitude * testPointMagnitude);
+        return (refPointMagnitude * testPointMagnitude) / dotProduct;
     }
 
     private Double JaccardSimilarity(AvgStrengthMap refPoint, AvgStrengthMap testPoint) {
@@ -219,14 +218,14 @@ public class TestingData {
         for (Map.Entry<String, AvgStrengthMap> testPoint : testPoints.entrySet()) {
             Map<String, Double> distanceMap = new HashMap<>();
             for (Map.Entry<String, AvgStrengthMap> refPoint : refPoints.entrySet()) {
-                distanceMap.put(refPoint.getKey(), CosineSimilarity(refPoint.getValue(), testPoint.getValue()));
+                distanceMap.put(refPoint.getKey(), ManhattanDistance(refPoint.getValue(), testPoint.getValue()));
             }
             List<Map.Entry<String, Double>> distanceList = new ArrayList<>(distanceMap.entrySet());
             distanceList.sort(Map.Entry.comparingByValue());
             Map<String, Integer> countMap = new HashMap<>();
             for (int i = 0; i < K; i++) {
                 String refPoint = distanceList.get(i).getKey();
-//                System.out.println(refPoint);
+                System.out.println(refPoint);
                 if (refPoint.endsWith("_i")) {
                     countMap.put("inside", countMap.getOrDefault("inside", 0) + 1);
                 } else {

@@ -3,7 +3,7 @@ import java.util.*;
 
 public class MakeRefSSIDs {
     Map<String, Map<String, ScanList>> roomPosList;
-    Map<String, AvgStrengthMap> AllPosAvgStrengthMapOfSelectedSSIDs;
+    Map<String, AvgStrengthMap> AllPosAvgStrengthMapOfSelectedSSIDs; // roomPosNo, AvgStrengthMap(SSID, avg strength)
     Map<String, Integer> AllSSIDsCountMap;
 
     public MakeRefSSIDs() {
@@ -60,7 +60,7 @@ public class MakeRefSSIDs {
                         avgStrengthMapOfSelectedSSIDs.map.put(SSID, avgStrengthMap.map.get(SSID));
                     }
                     else {
-                        avgStrengthMapOfSelectedSSIDs.map.put(SSID, -90.0);
+                        avgStrengthMapOfSelectedSSIDs.map.put(SSID, 0.0);
                     }
                 }
                 AllPosAvgStrengthMapOfSelectedSSIDs.put(roomPosNo.getKey(), avgStrengthMapOfSelectedSSIDs);

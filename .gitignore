@@ -1,4 +1,5 @@
 # .gitignore for wifi_crowd_sensing project
+.env
 
 # Maven build output
 /target/
